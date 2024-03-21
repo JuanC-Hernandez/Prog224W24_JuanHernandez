@@ -14,7 +14,7 @@
      * 
      * I had to load inventory localy from main.
      * 
-     * I got it to save inital items and item added from user to 
+     * I got it to save inital items and item added from user to json
      * 
      **/
 
